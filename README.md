@@ -1,2 +1,2 @@
 # calculator.app
-calculator design via CSS
+* calculator design via CSS
