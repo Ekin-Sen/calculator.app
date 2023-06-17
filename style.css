@@ -1,0 +1,22 @@
+body {
+    background: #EBEBEB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 12rem;
+    border-radius: 0.5rem;
+    background: #161D24;
+    color: #FFFFFF;
+    overflow: hidden; 
+}
+
+button {
+    width: 2.5rem;
+    height: 1.5rem;
+    
+}
