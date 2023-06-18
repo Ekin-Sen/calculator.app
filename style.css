@@ -20,3 +20,15 @@ body {
     font-size: 1rem;
     margin: 0.75rem;
 }
+
+.display {
+    background-color: #2d3e45;
+    text-align: end;
+    height: 6rem;
+}
+
+.operation {
+    padding-right: 1.5rem;
+    padding-top: 0.75rem;
+    font-size: 1.4rem;
+}
