@@ -1,22 +1,17 @@
 body {
-    background: #EBEBEB;
+    background: #d4d0cf;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
 }
 
 .container {
-    width: 12rem;
-    border-radius: 0.5rem;
+    width: 14rem;
+    border-radius: 1rem;
     background: #161D24;
     color: #FFFFFF;
     overflow: hidden; 
-}
-
-button {
-    width: 2.5rem;
-    height: 1.5rem;
-    
 }
