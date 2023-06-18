@@ -56,3 +56,12 @@ button {
     color: #EBEBEB;
     cursor: pointer;
 }
+
+.operator {
+    background-color: #EBEBEB;
+    color: #161D24;
+}
+
+.enter {
+    background-color: #ff5934;
+}
