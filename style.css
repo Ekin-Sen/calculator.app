@@ -32,3 +32,8 @@ body {
     padding-top: 0.75rem;
     font-size: 1.4rem;
 }
+
+.result {
+    margin-top: 2rem;
+    font-weight: bold;
+}
